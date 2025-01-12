@@ -1,3 +1,5 @@
+<p align="center"><img width="300" src="https://github.com/user-attachments/assets/ffc3d8f2-b5f9-49ef-80f5-2ea91c95652b"></p>
+
 # Pre-reqs
 Before running this, you'll need to do two quick setup steps:
 1. Run `C:\Windows\System32\cleanmgr.exe /sageset:1` as administrator and check the boxes for the things you want cleaned every time. This creates a "preset" you'll be calling from the script/
