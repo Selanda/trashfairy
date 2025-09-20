@@ -29,7 +29,7 @@ cd "C:\Users\%username%\AppData\Local\Temp\"
 del *.* /S /Q
 cd "C:\Users\%username%\AppData\LocalLow\Temp"
 del *.* /S /Q
-C:\Windows\System32\cleanmgr.exe /sagerun:1
+C:\Windows\System32\cleanmgr.exe
 cls
 GOTO MENU
 
